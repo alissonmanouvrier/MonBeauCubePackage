@@ -1,0 +1,17 @@
+{
+    "name": "be.alisson.monbeaucube",
+    "version": "1.1.2",
+    "displayName": "Mon beau cube",
+    "description": "Description of a cube",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+    "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+    "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+    "author": {
+      "name": "Alisson Manouvrier",
+      "email": "yourname@yourcompany.com",
+      "url": "https://yourcompany.com/"
+    }
+
+  }
